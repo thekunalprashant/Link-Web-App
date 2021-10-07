@@ -1,0 +1,11 @@
+{
+    "name": "Links YourName",
+    "short_name": "YourName - instagram - github - twitter",
+    "description": "Links YourName",
+    "theme_color": "#fff",
+    "background_color": "white",
+    "display": "standalone",
+    "Scope": "./",
+    "start_url": "index.html",
+    "splash_pages": null
+  }
