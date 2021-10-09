@@ -1,4 +1,4 @@
-Example: https://amolanshuman.github.io/Link-Web-App/
+Example: https://thekunalprashant.github.io/Link-Web-App/
 
 To create a website where you will attach your all social media links, go with the following steps-
 
