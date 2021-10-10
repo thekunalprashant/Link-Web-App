@@ -1,5 +1,5 @@
 # HactoberFest 2021
-![HactoberFest Logo](/images/hactober.png)
+![HactoberFest Logo](/images/hactober.jpg)
 
 ## What is Hacktoberfest?
 
